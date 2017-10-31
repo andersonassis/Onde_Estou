@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Onde Estou</string>
+    <string name="hint1">Digite um nome para o local</string>
+    <string name="capturar_local">Capturar local</string>
+    <string name="txt_latitude">Latitude</string>
+    <string name="txt_longitude">Longitude</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_ver_locais">Ver Locais</string>
+
+    <string name="texto_botao_captura">capturar as posições latitude e longitude do local</string>
+    <string name="texto_botao_salvar">salvar as informações em um arquivo de texto no aparelho</string>
+    <string name="texto_botao_limpar">limpar todas as informações digitadas e capturadas</string>
+    <string name="texto_botao_ver_locais">exibir os locais no mapa</string>
+
+</resources>
